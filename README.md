@@ -97,11 +97,11 @@ Frontend runs at: http://localhost:5173
 ---
 
 ## Screenshots
-<img src="screenshots/1.jpg" width="700"/>
-<img src="screenshots/2.jpg" width="700"/>
-<img src="screenshots/3.jpg" width="700"/>
-<img src="screenshots/4.jpg" width="700"/>
-<img src="screenshots/5.jpg" width="700"/>
+<img src="screenshots/1.JPG" width="700"/>
+<img src="screenshots/2.JPG" width="700"/>
+<img src="screenshots/3.JPG" width="700"/>
+<img src="screenshots/4.JPG" width="700"/>
+<img src="screenshots/5.JPG" width="700"/>
 <img src="screenshots/6.png" width="700"/>
 ---
 
