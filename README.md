@@ -97,13 +97,12 @@ Frontend runs at: http://localhost:5173
 ---
 
 ## Screenshots
-![Result](screenshots/1.jpg)
-![Result](screenshots/2.jpg)
-![Result](screenshots/3.jpg)
-![Result](screenshots/4.jpg)
-![Result](screenshots/5.jpg)
-![Result](screenshots/6.png)
-
+<img src="screenshots/1.jpg" width="700"/>
+<img src="screenshots/2.jpg" width="700"/>
+<img src="screenshots/3.jpg" width="700"/>
+<img src="screenshots/4.jpg" width="700"/>
+<img src="screenshots/5.jpg" width="700"/>
+<img src="screenshots/6.png" width="700"/>
 ---
 
 ## Notes
