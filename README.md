@@ -92,7 +92,7 @@ Frontend runs at: http://localhost:5173
 2. Enter news text  
 3. Select language  
 4. Click predict  
-5. View result (Real / Fake)  
+5. View result (Real / Fake) 
 
 ---
 
